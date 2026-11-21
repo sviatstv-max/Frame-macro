@@ -6,10 +6,10 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "yourname.frame-macro",
+	"id": "sviatstv.frame-macro",
 	"name": "Frame Macro",
 	"version": "v1.0.0",
-	"developer": "yourname",
+	"developer": "sviatstv",
 	"description": "Record and replay inputs tick-for-tick, with a live frame counter and a click-gap overlay.",
 	"settings": {
 		"show-overlay": {
